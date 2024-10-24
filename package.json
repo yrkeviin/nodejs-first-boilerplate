@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-first-boilerplate",
+  "version": "1.0.0",
+  "description": "Projeto base para as próximas aplicações em NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrkeviin/nodejs-first-boilerplate.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Boilerplate",
+    "Javascript",
+    "SENAI",
+    "BackEnd",
+    "Dev"
+  ],
+  "author": "Kevin Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yrkeviin/nodejs-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/yrkeviin/nodejs-first-boilerplate#readme"
+}
